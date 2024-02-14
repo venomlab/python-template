@@ -1,3 +1,11 @@
+# Archived
+
+This repo is archived! It is old and not relevant anymore
+
+Consider looking at how project is organized at [venomlab/antipasti](https://github.com/venomlab/antipasti)
+
+# Structure
+
 `.flake8` is for flake8 configuration with all plugins set
 
 `pyproject.toml` is for Black config
